@@ -1,7 +1,7 @@
 {
   "started_at": "2026-03-09T12:41:16.156329+00:00",
   "finished_at": "2026-03-09T12:41:16.225463+00:00",
-  "input_file": "/home/paulaflare/Desktop/ses content generator/ses_ict_hub_full_laptop_price_list.xlsx",
+  "input_file": "/home/paulaflare/Desktop/seo content generator/ses_ict_hub_full_laptop_price_list.xlsx",
   "input_kind": "xlsx",
   "sheet_name": "SES ICT HUB Laptop List",
   "used_llm": false,
@@ -11,9 +11,9 @@
     "rejected_rows": 0
   },
   "outputs": {
-    "cleaned_output": "/home/paulaflare/Desktop/ses content generator/samples/output/cleaned_output.csv",
-    "rejected_rows": "/home/paulaflare/Desktop/ses content generator/samples/output/rejected_rows.csv",
-    "generation_log": "/home/paulaflare/Desktop/ses content generator/samples/output/generation_log.json"
+    "cleaned_output": "/home/paulaflare/Desktop/seo content generator/samples/output/cleaned_output.csv",
+    "rejected_rows": "/home/paulaflare/Desktop/seo content generator/samples/output/rejected_rows.csv",
+    "generation_log": "/home/paulaflare/Desktop/seo content generator/samples/output/generation_log.json"
   },
   "config_snapshot": {
     "store_name": "SES ICT HUB",

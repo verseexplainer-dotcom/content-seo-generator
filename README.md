@@ -117,7 +117,7 @@ The output CSV includes:
 
 ## Store defaults
 
-Edit [store_defaults.json](/home/paulaflare/Desktop/ses%20content%20generator/config/store_defaults.json) to change:
+Edit [store_defaults.json](/home/paulaflare/Desktop/seo%20content%20generator/config/store_defaults.json) to change:
 - store name
 - location
 - currency
@@ -130,8 +130,8 @@ Edit [store_defaults.json](/home/paulaflare/Desktop/ses%20content%20generator/co
 ## Prompt templates
 
 Edit these files to tune the optional LLM layer:
-- [system_prompt.txt](/home/paulaflare/Desktop/ses%20content%20generator/prompts/system_prompt.txt)
-- [user_prompt.txt](/home/paulaflare/Desktop/ses%20content%20generator/prompts/user_prompt.txt)
+- [system_prompt.txt](/home/paulaflare/Desktop/seo%20content%20generator/prompts/system_prompt.txt)
+- [user_prompt.txt](/home/paulaflare/Desktop/seo%20content%20generator/prompts/user_prompt.txt)
 
 If `--use-llm` is not set, the tool still works fully with deterministic generation.
 
@@ -144,4 +144,3 @@ The code keeps the generated record structure isolated so it can later be mapped
 - Review output before bulk ecommerce import.
 - The current workbook in the project root is already supported.
 - You can drop future demo or live files into `data/input/` and point the CLI at them.
-
