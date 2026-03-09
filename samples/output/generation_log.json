@@ -1,0 +1,441 @@
+{
+  "started_at": "2026-03-09T12:41:16.156329+00:00",
+  "finished_at": "2026-03-09T12:41:16.225463+00:00",
+  "input_file": "/home/paulaflare/Desktop/ses content generator/ses_ict_hub_full_laptop_price_list.xlsx",
+  "input_kind": "xlsx",
+  "sheet_name": "SES ICT HUB Laptop List",
+  "used_llm": false,
+  "summary": {
+    "rows_read": 46,
+    "cleaned_rows": 46,
+    "rejected_rows": 0
+  },
+  "outputs": {
+    "cleaned_output": "/home/paulaflare/Desktop/ses content generator/samples/output/cleaned_output.csv",
+    "rejected_rows": "/home/paulaflare/Desktop/ses content generator/samples/output/rejected_rows.csv",
+    "generation_log": "/home/paulaflare/Desktop/ses content generator/samples/output/generation_log.json"
+  },
+  "config_snapshot": {
+    "store_name": "SES ICT HUB",
+    "location": "Nairobi, Kenya",
+    "currency": "KES",
+    "default_condition": "Refurbished",
+    "default_warranty_text": "3-month limited hardware warranty from SES ICT HUB unless stated otherwise."
+  },
+  "rows": [
+    {
+      "source_row_number": 2,
+      "status": "cleaned",
+      "slug": "hp-zbook-15-g8-workstation-laptop-i7-16gb-512gb",
+      "brand": "HP",
+      "category": "Workstation Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 3,
+      "status": "cleaned",
+      "slug": "hp-zbook-14-g8-workstation-laptop-i7-16gb-512gb",
+      "brand": "HP",
+      "category": "Workstation Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 4,
+      "status": "cleaned",
+      "slug": "hp-zbook-15-g7-workstation-laptop-i7-16gb-512gb",
+      "brand": "HP",
+      "category": "Workstation Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 5,
+      "status": "cleaned",
+      "slug": "hp-zbook-14-g7-workstation-laptop-i7-32gb-512gb",
+      "brand": "HP",
+      "category": "Workstation Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 6,
+      "status": "cleaned",
+      "slug": "hp-zbook-14-g7-workstation-laptop-i7-32gb-512gb-2",
+      "brand": "HP",
+      "category": "Workstation Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 7,
+      "status": "cleaned",
+      "slug": "hp-zbook-14-g7-workstation-laptop-i5-16gb-512gb",
+      "brand": "HP",
+      "category": "Workstation Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 8,
+      "status": "cleaned",
+      "slug": "hp-zbook-14-g6-workstation-laptop-i7-16gb-512gb",
+      "brand": "HP",
+      "category": "Workstation Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 9,
+      "status": "cleaned",
+      "slug": "hp-zbook-14-g6-workstation-laptop-i7-16gb-512gb-2",
+      "brand": "HP",
+      "category": "Workstation Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 10,
+      "status": "cleaned",
+      "slug": "microsoft-surface-laptop-i7-16gb-512gb",
+      "brand": "Microsoft",
+      "category": "Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 11,
+      "status": "cleaned",
+      "slug": "hp-850-g7-laptop-i7-16gb-512gb",
+      "brand": "HP",
+      "category": "Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 12,
+      "status": "cleaned",
+      "slug": "hp-850-g6-laptop-i7-16gb-512gb",
+      "brand": "HP",
+      "category": "Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 13,
+      "status": "cleaned",
+      "slug": "hp-850-g6-laptop-i7-8gb-512gb",
+      "brand": "HP",
+      "category": "Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 14,
+      "status": "cleaned",
+      "slug": "hp-850-g6-laptop-i7-8gb-256gb",
+      "brand": "HP",
+      "category": "Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 15,
+      "status": "cleaned",
+      "slug": "hp-850-g3-laptop-i5-8gb-256gb",
+      "brand": "HP",
+      "category": "Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 16,
+      "status": "cleaned",
+      "slug": "hp-845-g7-laptop-ryzen-3-8gb-256gb",
+      "brand": "HP",
+      "category": "Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 17,
+      "status": "cleaned",
+      "slug": "hp-745-g6-laptop-ryzen-7-16gb-256gb",
+      "brand": "HP",
+      "category": "Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 18,
+      "status": "cleaned",
+      "slug": "hp-745-g6-laptop-ryzen-7-8gb-256gb",
+      "brand": "HP",
+      "category": "Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 19,
+      "status": "cleaned",
+      "slug": "hp-745-g6-laptop-ryzen-5-8gb-256gb",
+      "brand": "HP",
+      "category": "Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 20,
+      "status": "cleaned",
+      "slug": "macbook-pro-2019-laptop-i7-32gb-1tb",
+      "brand": "Apple",
+      "category": "Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 21,
+      "status": "cleaned",
+      "slug": "macbook-pro-2019-laptop-i7-32gb-512gb",
+      "brand": "Apple",
+      "category": "Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 22,
+      "status": "cleaned",
+      "slug": "macbook-pro-2018-laptop-i7-16gb-512gb",
+      "brand": "Apple",
+      "category": "Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 23,
+      "status": "cleaned",
+      "slug": "macbook-pro-2012-laptop-i5-8gb-256gb",
+      "brand": "Apple",
+      "category": "Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 24,
+      "status": "cleaned",
+      "slug": "hp-1040-g8-2-in-1-laptop-i7-16gb-512gb",
+      "brand": "HP",
+      "category": "2-in-1 Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 25,
+      "status": "cleaned",
+      "slug": "hp-1040-g8-2-in-1-laptop-i5-16gb-512gb",
+      "brand": "HP",
+      "category": "2-in-1 Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 26,
+      "status": "cleaned",
+      "slug": "hp-1040-g8-2-in-1-laptop-i5-16gb-256gb",
+      "brand": "HP",
+      "category": "2-in-1 Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 27,
+      "status": "cleaned",
+      "slug": "hp-1040-g7-2-in-1-laptop-i5-16gb-512gb",
+      "brand": "HP",
+      "category": "2-in-1 Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 28,
+      "status": "cleaned",
+      "slug": "hp-1040-g7-2-in-1-laptop-i5-16gb-256gb",
+      "brand": "HP",
+      "category": "2-in-1 Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 29,
+      "status": "cleaned",
+      "slug": "hp-1040-g6-2-in-1-laptop-i7-16gb-512gb",
+      "brand": "HP",
+      "category": "2-in-1 Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 30,
+      "status": "cleaned",
+      "slug": "hp-1040-g6-2-in-1-laptop-i5-16gb-512gb",
+      "brand": "HP",
+      "category": "2-in-1 Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 31,
+      "status": "cleaned",
+      "slug": "hp-1040-g5-2-in-1-laptop-i5-16gb-512gb",
+      "brand": "HP",
+      "category": "2-in-1 Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 32,
+      "status": "cleaned",
+      "slug": "dell-xps-13-7390-laptop-i7-16gb-512gb",
+      "brand": "Dell",
+      "category": "Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 33,
+      "status": "cleaned",
+      "slug": "dell-7410-laptop-i7-16gb-512gb",
+      "brand": "Dell",
+      "category": "Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 34,
+      "status": "cleaned",
+      "slug": "dell-7320-laptop-i5-16gb-256gb",
+      "brand": "Dell",
+      "category": "Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 35,
+      "status": "cleaned",
+      "slug": "dell-7310-laptop-i5-8gb-256gb",
+      "brand": "Dell",
+      "category": "Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 36,
+      "status": "cleaned",
+      "slug": "dell-7300-laptop-i7-8gb-256gb",
+      "brand": "Dell",
+      "category": "Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 37,
+      "status": "cleaned",
+      "slug": "dell-7300-laptop-i5-8gb-256gb",
+      "brand": "Dell",
+      "category": "Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 38,
+      "status": "cleaned",
+      "slug": "dell-7490-laptop-i5-8gb-256gb",
+      "brand": "Dell",
+      "category": "Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 39,
+      "status": "cleaned",
+      "slug": "dell-7390-laptop-i7-8gb-256gb",
+      "brand": "Dell",
+      "category": "Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 40,
+      "status": "cleaned",
+      "slug": "lenovo-x1-yoga-2-in-1-laptop-i7-16gb-512gb",
+      "brand": "Lenovo",
+      "category": "2-in-1 Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 41,
+      "status": "cleaned",
+      "slug": "lenovo-x1-yoga-2-in-1-laptop-i7-16gb-512gb-2",
+      "brand": "Lenovo",
+      "category": "2-in-1 Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 42,
+      "status": "cleaned",
+      "slug": "lenovo-x1-yoga-2-in-1-laptop-i7-8gb-512gb",
+      "brand": "Lenovo",
+      "category": "2-in-1 Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 43,
+      "status": "cleaned",
+      "slug": "lenovo-x13-laptop-i7-16gb-512gb",
+      "brand": "Lenovo",
+      "category": "Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 44,
+      "status": "cleaned",
+      "slug": "lenovo-x1-carbon-laptop-i7-16gb-512gb",
+      "brand": "Lenovo",
+      "category": "Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 45,
+      "status": "cleaned",
+      "slug": "lenovo-x1-carbon-laptop-i7-16gb-512gb-2",
+      "brand": "Lenovo",
+      "category": "Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 46,
+      "status": "cleaned",
+      "slug": "lenovo-x280-laptop-i7-16gb-512gb",
+      "brand": "Lenovo",
+      "category": "Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    },
+    {
+      "source_row_number": 47,
+      "status": "cleaned",
+      "slug": "lenovo-x280-laptop-i5-8gb-256gb",
+      "brand": "Lenovo",
+      "category": "Laptop",
+      "warnings": [],
+      "llm_status": "skipped"
+    }
+  ]
+}

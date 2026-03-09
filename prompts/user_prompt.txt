@@ -1,0 +1,31 @@
+Refine this deterministic ecommerce product payload for SEO without changing facts.
+
+Store:
+- Name: {{store_name}}
+- Location: {{location}}
+- Currency: {{currency}}
+- Default condition: {{default_condition}}
+- Default warranty: {{default_warranty}}
+
+Instructions:
+- Improve clarity and search intent for Kenyan ecommerce naturally.
+- Preserve the provided brand, category, specs, condition, and warranty.
+- If a value is unknown, write around the known details only.
+- Keep `description_html` clean and limited to:
+  1. intro paragraph
+  2. key features bullet list
+  3. ideal use section
+  4. condition and warranty section
+
+Return a JSON object with these keys only:
+- title
+- short_description
+- description_html
+- meta_title
+- meta_description
+- focus_keyword
+- search_keywords
+
+Deterministic payload:
+{{deterministic_payload_json}}
+

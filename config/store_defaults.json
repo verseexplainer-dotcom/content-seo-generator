@@ -1,0 +1,92 @@
+{
+  "store_name": "SES ICT HUB",
+  "location": "Nairobi, Kenya",
+  "currency": "KES",
+  "default_warranty_text": "3-month limited hardware warranty from SES ICT HUB unless stated otherwise.",
+  "condition_labels": {
+    "default": "Refurbished",
+    "alternate": [
+      "Open Box",
+      "Used"
+    ]
+  },
+  "stock_labels": {
+    "in_stock": "in_stock",
+    "low_stock": "low_stock",
+    "out_of_stock": "out_of_stock",
+    "default_if_missing": "in_stock"
+  },
+  "low_stock_threshold": 3,
+  "meta_limits": {
+    "title": 60,
+    "description": 160
+  },
+  "compare_at_markup_pct": 0.12,
+  "compare_at_round_to": 100,
+  "known_brands": [
+    "hp",
+    "dell",
+    "lenovo",
+    "microsoft",
+    "apple",
+    "acer",
+    "asus",
+    "toshiba",
+    "msi",
+    "samsung",
+    "fujitsu"
+  ],
+  "category_keywords": {
+    "Accessory": [
+      "charger",
+      "adapter",
+      "dock",
+      "docking",
+      "mouse",
+      "keyboard",
+      "headset",
+      "earbuds",
+      "speaker",
+      "router",
+      "bag",
+      "battery"
+    ],
+    "Monitor": [
+      "monitor",
+      "display"
+    ],
+    "Desktop Computer": [
+      "desktop",
+      "tower",
+      "sff",
+      "small form factor",
+      "all in one",
+      "all-in-one",
+      "aio"
+    ],
+    "2-in-1 Laptop": [
+      "yoga",
+      "x360",
+      "convertible",
+      "2-in-1",
+      "2 in 1"
+    ],
+    "Workstation Laptop": [
+      "zbook",
+      "precision",
+      "mobile workstation",
+      "thinkpad p"
+    ],
+    "Laptop": [
+      "elitebook",
+      "probook",
+      "latitude",
+      "thinkpad",
+      "surface",
+      "macbook",
+      "notebook",
+      "laptop"
+    ]
+  }
+}
+

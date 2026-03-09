@@ -1,0 +1,3 @@
+# The deterministic pipeline runs on the Python standard library only.
+# No external packages are required for the default workflow.
+
